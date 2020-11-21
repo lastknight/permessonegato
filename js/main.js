@@ -52,7 +52,7 @@ $(document).ready(function() {
 
     $("#fullpage").fullpage({
         anchors: "1234".split(""),
-        navigationTooltips: "Home Cosa Chi Contatti".split(" "),
+        navigationTooltips: "Home Cosa Chi Insieme Contatti".split(" "),
         showActiveTooltip: !1,
         menu: "#menu",
         css3: !0,
