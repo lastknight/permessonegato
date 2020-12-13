@@ -51,7 +51,7 @@ $(document).ready(function() {
     /* ------------------------------------- */
 
     $("#fullpage").fullpage({
-        anchors: "1234".split(""),
+        anchors: "home chi cosa report contatti".split(""),
         navigationTooltips: "Home Cosa Chi Insieme Contatti".split(" "),
         showActiveTooltip: !1,
         menu: "#menu",
